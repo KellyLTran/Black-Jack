@@ -13,4 +13,4 @@ Face cards are valued at 10, and Aces are valued at 1. A menu guides player acti
 The game tracks statistics, including total games, player wins, dealer wins, and ties. These stats are presented upon player request.
 
 Credits 
-The UF CISE Department provided the random_1.py file and the objectives for this project to complete.
+The UF CISE Department provided the p1_random.py file and the objectives for this project to complete.

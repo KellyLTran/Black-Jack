@@ -12,5 +12,5 @@ Cards are represented by numbers: 1 (ACE!), 2-10 (face values), 11 (JACK!), 12 (
 Face cards are valued at 10, and Aces are valued at 1. A menu guides player actions: Get another card, Hold hand, Print statistics, and Exit. 
 The game tracks statistics, including total games, player wins, dealer wins, and ties. These stats are presented upon player request.
 
-Credits 
+Credits:
 The UF CISE Department provided the p1_random.py file and the objectives for this project to complete.
